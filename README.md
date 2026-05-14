@@ -113,7 +113,7 @@ rate(1 hour)
 # 📸 Screenshots
 
 
-## 🔹 EC2 Instance Running
+## 🔹 Lambda Function Test
 
 ![EC2 Running](screenshots/ec2-running.png)
 
