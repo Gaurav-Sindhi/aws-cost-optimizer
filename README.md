@@ -112,17 +112,6 @@ rate(1 hour)
 
 # 📸 Screenshots
 
-## 🔹 Lambda Function
-
-![Lambda](screenshots/lambda-dashboard.png)
-
----
-
-## 🔹 EventBridge Rule
-
-![EventBridge](screenshots/eventbridge-rule.png)
-
----
 
 ## 🔹 EC2 Instance Running
 
